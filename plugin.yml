@@ -1,0 +1,9 @@
+name: Particle
+main: Plate\Particle\Main
+author: PlateWheel
+api: 3.0.0
+version: 1.0
+
+commands:
+  pc:
+    description: "Particle owo"
